@@ -1,0 +1,5 @@
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\MatrixSearchAndSort\MatrixSearchAndSort\bin\Debug\MatrixSearchAndSort.exe.config
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\MatrixSearchAndSort\MatrixSearchAndSort\bin\Debug\MatrixSearchAndSort.exe
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\MatrixSearchAndSort\MatrixSearchAndSort\bin\Debug\MatrixSearchAndSort.pdb
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\MatrixSearchAndSort\MatrixSearchAndSort\obj\Debug\MatrixSearchAndSort.exe
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\MatrixSearchAndSort\MatrixSearchAndSort\obj\Debug\MatrixSearchAndSort.pdb

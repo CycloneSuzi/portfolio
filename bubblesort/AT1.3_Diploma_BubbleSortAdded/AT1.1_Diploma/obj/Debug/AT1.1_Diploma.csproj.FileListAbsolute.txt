@@ -1,0 +1,9 @@
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\AT1.1_Diploma\AT1.1_Diploma\bin\Debug\AT1.1_Diploma.exe.config
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\AT1.1_Diploma\AT1.1_Diploma\bin\Debug\AT1.1_Diploma.exe
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\AT1.1_Diploma\AT1.1_Diploma\bin\Debug\AT1.1_Diploma.pdb
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\AT1.1_Diploma\AT1.1_Diploma\obj\Debug\AT1.1_Diploma.csprojResolveAssemblyReference.cache
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\AT1.1_Diploma\AT1.1_Diploma\obj\Debug\AT1._1_Diploma.Properties.Resources.resources
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\AT1.1_Diploma\AT1.1_Diploma\obj\Debug\AT1.1_Diploma.csproj.GenerateResource.Cache
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\AT1.1_Diploma\AT1.1_Diploma\obj\Debug\AT1.1_Diploma.exe
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\AT1.1_Diploma\AT1.1_Diploma\obj\Debug\AT1.1_Diploma.pdb
+C:\Users\set28\OneDrive\Documents\Visual Studio 2017\Projects\AT1.1_Diploma\AT1.1_Diploma\obj\Debug\AT1._1_Diploma.LinkedLists.resources
